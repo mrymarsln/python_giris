@@ -1,2 +1,2 @@
 # python_giris
-Python öğrenirken aldığım notlar 
+Python öğrenirken aldığım notlar
