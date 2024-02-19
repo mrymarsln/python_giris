@@ -1,2 +1,2 @@
-# python_giris
+# Python Temel Notlar
 Python öğrenirken aldığım notlar
